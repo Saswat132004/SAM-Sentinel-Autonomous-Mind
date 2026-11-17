@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Do not back up sensitive database or private memory to cloud -->
+        <exclude domain="database" path="sam_memory.db" />
+        <exclude domain="sharedpref" path="sam_secure_prefs.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="database" path="sam_memory.db" />
+    </device-transfer>
+</data-extraction-rules>
+

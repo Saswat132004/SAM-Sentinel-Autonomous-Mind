@@ -1,0 +1,10 @@
+<resources>
+    <color name="sam_bg">#090D18</color>
+    <color name="sam_bg_secondary">#111827</color>
+    <color name="sam_primary">#6366F1</color>
+    <color name="sam_accent">#8B5CF6</color>
+    <color name="sam_success">#22C55E</color>
+    <color name="sam_text">#F8FAFC</color>
+    <color name="sam_secondary_text">#94A3B8</color>
+</resources>
+

@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#090D18"
+        android:pathData="M0,0h108v108h-108z"/>
+    <!-- Outer shield -->
+    <path
+        android:strokeColor="#6366F1"
+        android:strokeWidth="3"
+        android:fillColor="#111827"
+        android:pathData="M54,16 L84,30 C84,58 71,82 54,92 C37,82 24,58 24,30 Z"/>
+    <!-- Core AI Orb -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M54,54m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0"/>
+    <!-- Soundwave lines -->
+    <path
+        android:strokeColor="#F8FAFC"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,54 L44,54 M49,48 L49,60 M54,42 L54,66 M59,48 L59,60 M64,54 L64,54"/>
+</vector>
+

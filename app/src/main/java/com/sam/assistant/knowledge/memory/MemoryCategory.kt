@@ -1,0 +1,12 @@
+package com.sam.assistant.knowledge.memory
+
+enum class MemoryCategory {
+    PERSONAL_PREFERENCES,
+    APPLICATION_PREFERENCES,
+    STUDY_PREFERENCES,
+    PROJECT_INFORMATION,
+    LEARNING_HISTORY,
+    USER_APPROVED_FACTS,
+    ROUTINES,
+    WORKFLOW_PREFERENCES
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SAM Assistant</string>
+    <string name="assistant_service_label">SAM Voice Assistant</string>
+    <string name="assistant_session_label">SAM Assistant Session</string>
+    <string name="accessibility_service_label">SAM Automation Service</string>
+    <string name="accessibility_service_description">Enables SAM to safely assist with hands-free device navigation and automation actions when requested by the user.</string>
+    <string name="wake_word">Hey SAM</string>
+    <string name="wake_response">Yes, I\'m listening.</string>
+</resources>
+
